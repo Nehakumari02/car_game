@@ -1,5 +1,6 @@
 # car_game
 This game is created using HTML,CSS,Javascipt.
+To make the gaming experience more engaging and immersive, photos are added to visually depict the car's movements when the corresponding arrow keys are pressed.
 
 
 This is how it looks like
